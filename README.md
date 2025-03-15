@@ -9,3 +9,11 @@ NodeJs for backend framework - creating the API, SQL for the database of all the
 #build backend funcitonality/connection to an API or database with all the accounts listed
 
 #building out roadmap for developing tool 
+
+#connecting with Amanda to get her input on using a tool like this
+#would not be able to display accounts that only have showcase
+#managed vs self op focus - find way to filter - annual account value = $0 if managed
+
+#map view of pins of customers that can allow people to see what accounts we have and where. 
+
+#google maps api for javascript with custom pins for schools
