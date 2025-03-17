@@ -16,4 +16,6 @@ NodeJs for backend framework - creating the API, SQL for the database of all the
 
 #map view of pins of customers that can allow people to see what accounts we have and where. 
 
-#google maps api for javascript with custom pins for schools
+#google maps api for javascript with custom pins for schools, colleges and such
+
+#node.js, google maps api, react frontend, database tbd
