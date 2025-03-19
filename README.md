@@ -20,3 +20,5 @@ NodeJs for backend framework - creating the API, SQL for the database of all the
 
 #node.js, google maps api, react frontend, database tbd
 
+
+#Next step - set up google maps api account stuff and walk through tutorial to get things working - mess around with it and from there get a better sense of best practices for building the application. 
